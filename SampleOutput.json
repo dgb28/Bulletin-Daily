@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Harris Speaks To Highland Park Community After Shooting - NBC News",
+      "description": "Vice President Kamala Harris offered condolences to the community of Highland Park after meeting with local leaders and law enforcement in the wake of the Fo...",
+      "url": "https://www.youtube.com/watch?v=ivz463CTzDg",
+      "urlToImage": "https://i.ytimg.com/vi/ivz463CTzDg/maxresdefault.jpg",
+      "publishedAt": "2022-07-06T03:15:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Detroit News" },
+      "author": "Mark Hicks, The Detroit News",
+      "title": "Carlos Santana collapses on stage at Pine Knob - Detroit News",
+      "description": "The 74-year-old musician was singing 'Joy' before suddenly stopping. Crews rushed to the stage to tend to him.",
+      "url": "https://www.detroitnews.com/story/entertainment/music/2022/07/05/santana-collapses-state-pine-knob-tuesday/7817783001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/06/PDTN/6d3b625a-e23d-4ee4-b08a-7dff595311a3-TDNTab_08-27-2015_DETROIT_1_M017__2015_08_25_IMG_GettyImages-47628865_1_1_5OISJGD_L14511561_IMG_GettyImages-47628865_1_1_5OISJGD.jpg?auto=webp&crop=4459,2508,x0,y219&format=pjpg&width=1200",
+      "publishedAt": "2022-07-06T03:00:27Z",
+      "content": "Rock legend Carlos Santana collapsed during a performance Tuesday night at Pine Knob Music Theatre in Clarkston when he was overcome by the heat, his management team confirmed on Facebook early Wedne… [+2059 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Paul Best",
+      "title": "Sweden and Finland closer to joining NATO as member nations sign accession protocols - Fox News",
+      "description": "All 30 NATO allies signed accession protocols for Sweden and Finland to join the alliance on Tuesday after Turkey dropped its opposition to the expansion.",
+      "url": "https://www.foxnews.com/world/sweden-finland-nato-member-nations-sign-accession-protocols",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/AP22180364602057-e1656509234951.jpg",
+      "publishedAt": "2022-07-06T01:43:38Z",
+      "content": "Sweden and Finland inched closer to joining NATO on Tuesday as ambassadors for all 30 member nations signed accession protocols for the two Nordic states to join the alliance. \r\n\"This is truly an his… [+2268 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WKYC.com" },
+      "author": "Phil Trexler",
+      "title": "3News Investigates: Jayland Walker's final days a tale of contradiction - WKYC.com",
+      "description": "Akron man's sudden behavior shift following death of fiancée is likely part of fatal police shooting probe.",
+      "url": "https://www.wkyc.com/article/news/investigations/3news-investigates-jayland-walkers-final-days-tale-of-contradiction/95-0ba1da0f-1839-40ae-aad4-ed2b0f1f0414",
+      "urlToImage": "https://media.wkyc.com/assets/WKYC/images/c0cd6798-44c6-4586-9df9-9714b7b38366/c0cd6798-44c6-4586-9df9-9714b7b38366_1140x641.jpg",
+      "publishedAt": "2022-07-05T22:50:00Z",
+      "content": "AKRON, Ohio To those who knew him, the last 30 days of Jayland Walkers life are a tale of contradictions.\r\nThe countdown begins in late May with wedding plans erased when Jaymeisha Beasley, his high … [+3448 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eonline.com" },
+      "author": "Elyse Dupre",
+      "title": "Travis Barker and Kourtney Kardashian Take Family Trip to the Beach After Hospitalization - E! NEWS",
+      "description": "About a week after Travis Barker was hospitalized for pancreatitis, he and Kourtney Kardashian posted footage from a sunny drive to the beach. See photos from their outing.",
+      "url": "https://www.eonline.com/news/1336785/travis-barker-and-kourtney-kardashian-take-family-trip-to-the-beach-after-hospitalization",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022529/rs_1200x1200-220629162715-Kourtney-Travis.jpg?fit=around%7C1080:566&output-quality=90&crop=1080:566;center,top",
+      "publishedAt": "2022-07-05T14:46:00Z",
+      "content": "In sickness and in health, Kourtney Kardashian and Travis Barker are there for each other. \r\nSix days after the blink-182 rocker was hospitalized, he and his wife enjoyed a necessary beach day July 4… [+886 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SamMobile" },
+      "author": "SamMobile",
+      "title": "Internal One UI 5.0 beta for the Galaxy S22 already underway - SamMobile - Samsung news",
+      "description": "Samsung fans are looking forward to the One UI 5.0 beta. This would be their first chance to sample Android ...",
+      "url": "https://www.sammobile.com/news/internal-one-ui-5-0-beta-for-galaxy-s22-underway/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/03/Galaxy-S22-Ultra-review-1-720x405.jpg",
+      "publishedAt": "2022-07-05T14:21:00Z",
+      "content": "Samsung fans are looking forward to the One UI 5.0 beta. This would be their first chance to sample Android 13 on their Galaxy device. It goes without saying that the Galaxy S22 series will be among … [+1558 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "ABC News",
+      "title": "UK climate protesters glue themselves to gallery paintings - ABC News",
+      "description": "Climate change protesters have targeted a copy of Leonardo da Vinci’s “The Last Supper” at London’s Royal Academy of Arts",
+      "url": "https://abcnews.go.com/Entertainment/wireStory/uk-climate-protesters-glue-constable-frame-86227973",
+      "urlToImage": "https://s.abcnews.com/images/Entertainment/WireAP_d902f07874ee48a7850ad23bd844338b_16x9_992.jpg",
+      "publishedAt": "2022-07-05T12:01:23Z",
+      "content": "LONDON -- Climate change protesters targeted a copy of Leonardo da Vinci's The Last Supper at London's Royal Academy of Arts Tuesday, gluing themselves to the painting's frame and spray-painting No N… [+1615 chars]"
+    }
+  ]
+}
